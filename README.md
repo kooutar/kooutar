@@ -20,10 +20,10 @@ Développeur Full-Stack passionnée par Node.js, MySQL ,Laravel et les cartes in
 
 ## 📈 GitHub Stats
 
-![kaoutar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
+![kaoutar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaoutar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutar&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ton-username&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaoutar&theme=tokyonight)
 
 
