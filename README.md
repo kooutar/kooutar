@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @kooutar
-- 👀 I’m interested in web developer 
-- 🌱 I’m currently learning CSS
+# Bonjour 👋, moi c’est Kaoutar
+Développeur Full-Stack passionné par Node.js, MySQL ,Laravel et les cartes interactives 🗺️
+
+## 🚀 Compétences
+- 💻 Backend : Node.js, Express.js, MySQL, Pgsql, Laravel
+- 🌐 Frontend : HTML, CSS, JavaScript, EJS,tailwind 
 
 
-<!---
-kooutar/kooutar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📁 Projets récents
+- [🌍 Carte interactive avec Leaflet](https://github.com/amine-dev/map-app)
+- [📰 Gestion d’actualités avec Node.js](https://github.com/amine-dev/actu-app)
+
+## 📫 Me contacter
+- Email : kawtarlaajil7@gmail.com
+- LinkedIn : [[linkedin.com/in/amine](https://www.linkedin.com/in/kaoutar-laajil-8b2473224/)](#)
