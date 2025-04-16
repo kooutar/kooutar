@@ -27,3 +27,6 @@ Développeur Full-Stack passionnée par Node.js, MySQL ,Laravel et les cartes in
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kooutar&theme=tokyonight)
 
 
+![](https://github-profile-trophy.vercel.app/?username=kooutar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
