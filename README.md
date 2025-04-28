@@ -8,7 +8,7 @@ Développeur Full-Stack passionnée par Node.js, MySQL ,Laravel et les cartes in
 
 ## 📫 Me contacter
 - Email : kawtarlaajil7@gmail.com
-- LinkedIn : [[linkedin.com/in/amine](https://www.linkedin.com/in/kaoutar-laajil-8b2473224/)](#)
+- LinkedIn : [[linkedin.com/in/kaoutar](https://www.linkedin.com/in/kaoutar-laajil-8b2473224/)](#)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
