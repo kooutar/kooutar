@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  💻 <b>Développeuse Full-Stack</b> passionnée par le <b>web, la cartographie interactive</b> 🗺️ et les solutions intelligentes.  
+  💻 <b>Développeuse Full-Stack</b> passionnée par le <b>web</b>, la <b>cartographie interactive</b> 🗺️ et les solutions intelligentes.  
   <br>
   J’aime créer des applications performantes avec <b>Node.js</b>, <b>Spring Boot</b>, <b>Laravel</b> et <b>Docker</b>.
 </p>
@@ -30,18 +30,21 @@
 
 ---
 
-## 💡 Ce que j’aime faire
-✨ Concevoir des interfaces **modernes et intuitives**  
-🌍 Travailler avec des **cartes interactives et API géographiques**  
-⚡ Optimiser les performances backend  
-🤝 Collaborer sur des projets open-source et apprendre de nouvelles technos  
-
----
-
 ## 🛠️ Technologies & Outils
 
+<!-- Animation des icônes défilantes -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs,express,html,css,js,tailwind,postgres,mysql,docker,postman,git,vscode,idea&theme=light" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2CB&center=true&vCenter=true&width=800&lines=💡+Mes+technologies+et+outils+favoris;🌟+Toujours+en+évolution+et+en+apprentissage!" />
+</p>
+
+<!-- Animation de défilement horizontal -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs,express,html,css,js,tailwind,postgres,mysql,docker,postman,git,vscode,idea&theme=light" alt="Technologies" />
+</div>
+
+<!-- Animation subtile avec icônes qui défilent -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 ---
@@ -73,7 +76,7 @@
 
 ---
 
-## ✨ Petit plus animé
+## ✨ Animation finale
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=💡+Développeuse+Full+Stack;🚀+Amoureuse+du+code+et+de+l’innovation;🎯+Toujours+en+quête+d’apprentissage!" />
 </p>
