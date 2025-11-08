@@ -1,61 +1,83 @@
-# 👋 Bonjour, moi c’est **Kaoutar Laajil**
+<!-- Animation de bienvenue -->
+<h1 align="center">
+  👋 Bonjour, moi c’est <span style="color:#ff69b4;">Kaoutar Laajil</span>
+</h1>
 
-💻 **Développeuse Full-Stack** passionnée par la création d’applications web performantes et intuitives.  
-J’aime transformer les idées en solutions concrètes à travers **Node.js**, **Laravel**, et les **cartes interactives** 🗺️.
+<p align="center">
+  💻 <b>Développeuse Full-Stack</b> passionnée par le <b>web, la cartographie interactive</b> 🗺️ et les solutions intelligentes.  
+  <br>
+  J’aime créer des applications performantes avec <b>Node.js</b>, <b>Spring Boot</b>, <b>Laravel</b> et <b>Docker</b>.
+</p>
 
 ---
 
 ## 🚀 Compétences techniques
 
 ### 🧩 Backend
-- **Node.js**, **Express.js**, **Laravel**  
-- **Bases de données :** MySQL, PostgreSQL  
-- **API RESTful**, authentification JWT, MVC architecture
+- **Node.js**, **Express.js**
+- **Java**, **Spring Boot**
+- **Laravel**
+- **MySQL**, **PostgreSQL**
+- **API RESTful**, **Authentification JWT**, **MVC**
 
 ### 🎨 Frontend
 - **HTML5**, **CSS3**, **JavaScript (ES6)**  
-- **EJS**, **Tailwind CSS**  
-- Intégration de **Leaflet.js** pour la cartographie dynamique  
+- **Tailwind CSS**, **EJS**, **Bootstrap**
+- **Leaflet.js** pour les cartes interactives
+
+### ⚙️ DevOps & Outils
+- **Docker**, **Git/GitHub**, **Postman**, **VS Code**, **IntelliJ IDEA**
 
 ---
 
 ## 💡 Ce que j’aime faire
-- Concevoir des **interfaces intuitives** et **performantes**
-- Travailler sur des **cartes interactives et géolocalisation**
-- Collaborer sur des projets open-source ou innovants
-- Apprendre continuellement de nouvelles technologies
-
----
-
-## 📊 Statistiques GitHub
-
-![Kaoutar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kooutar&show_icons=true&theme=radical&hide_border=false&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kooutar&layout=compact&theme=tokyonight&border_radius=10)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kooutar&theme=tokyonight&border_radius=10)
-
-![](https://github-profile-trophy.vercel.app/?username=kooutar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+✨ Concevoir des interfaces **modernes et intuitives**  
+🌍 Travailler avec des **cartes interactives et API géographiques**  
+⚡ Optimiser les performances backend  
+🤝 Collaborer sur des projets open-source et apprendre de nouvelles technos  
 
 ---
 
 ## 🛠️ Technologies & Outils
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs,express,html,css,js,tailwind,postgres,mysql,docker,postman,git,vscode,idea&theme=light" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kooutar&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooutar&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kooutar&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kooutar&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
 ## 📫 Me contacter
 
-📧 **Email :** [kawtarlaajil7@gmail.com](mailto:kawtarlaajil7@gmail.com)  
-💼 **LinkedIn :** [linkedin.com/in/kaoutar-laajil](https://www.linkedin.com/in/kaoutar-laajil-8b2473224/)  
+<p align="center">
+  📧 <a href="mailto:kawtarlaajil7@gmail.com">kawtarlaajil7@gmail.com</a>  
+  <br>
+  💼 <a href="https://www.linkedin.com/in/kaoutar-laajil-8b2473224/" target="_blank">LinkedIn – Kaoutar Laajil</a>
+</p>
 
 ---
 
-⭐️ *“Codez avec passion, partagez avec impact.”*  
+## ✨ Petit plus animé
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=💡+Développeuse+Full+Stack;🚀+Amoureuse+du+code+et+de+l’innovation;🎯+Toujours+en+quête+d’apprentissage!" />
+</p>
+
+---
+
+⭐️ *“Codez avec passion, partagez avec impact.”*
