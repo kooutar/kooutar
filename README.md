@@ -249,6 +249,6 @@ graph TD
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-![Visitor Count](https://profile-counter.glitch.me/kooutar/count.svg)
+
 
 </div>
